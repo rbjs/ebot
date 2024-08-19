@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:w": "nodemon src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "awilix": "^10.0.2",
+    "axios": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "joi": "^17.13.3",
+    "jsonpath": "^1.1.1",
+    "kafkajs": "^2.2.4",
+    "uuid": "^10.0.0",
+    "winston": "^3.14.2",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}

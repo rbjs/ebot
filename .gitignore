@@ -1,0 +1,28 @@
+# IDE files
+.code
+.idea
+
+# Mac files
+.DS_Store
+
+# Npm cache directory
+.npm
+.npmrc
+
+# Dependencies
+node_modules
+
+# Logs
+logs
+postgres-data
+
+dev-tools
+
+coverage
+
+#Typescript
+dist
+
+#Local files
+.env
+package-lock.json
